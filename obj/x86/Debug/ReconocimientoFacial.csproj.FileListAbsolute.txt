@@ -1,0 +1,47 @@
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\obj\x86\Debug\Reconocimiento Facial.exe
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\obj\x86\Debug\Reconocimiento Facial.pdb
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\bin\Debug\Reconocimiento Facial.exe
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\bin\Debug\Reconocimiento Facial.pdb
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\bin\Debug\Emgu.CV.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\bin\Debug\Emgu.Util.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\obj\x86\Debug\ReconocimientoF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV\obj\x86\Debug\ReconocimientoFacial.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\bin\Debug\Reconocimiento Facial.exe
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\bin\Debug\Reconocimiento Facial.pdb
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\bin\Debug\Emgu.CV.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\bin\Debug\Emgu.Util.xml
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\ReconocimientoFacial.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\ReconocimientoF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\ReconocimientoFacial.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\Reconocimiento Facial.exe
+C:\Users\Usuario\Desktop\proyectos vb\FaceRecProOV - copia\obj\x86\Debug\Reconocimiento Facial.pdb
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\Reconocimiento Facial.exe
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\Reconocimiento Facial.pdb
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\Emgu.CV.xml
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\Emgu.CV.UI.xml
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\bin\Debug\Emgu.Util.xml
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csprojAssemblyReference.cache
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\ReconocimientoF.Properties.Resources.resources
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csproj.GenerateResource.cache
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csproj.CoreCompileInputs.cache
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csproj.CopyComplete
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\Reconocimiento Facial.exe
+C:\Users\980006494\Documents\reconocimiento facial\Reconocimiento facial vb.net\Reconocimiento facial vb.net\ReconocimientoFacial\ReconocimientoFacial\obj\x86\Debug\Reconocimiento Facial.pdb
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Reconocimiento Facial.exe.config
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Reconocimiento Facial.exe
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Reconocimiento Facial.pdb
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Emgu.CV.xml
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Emgu.CV.UI.xml
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\bin\Debug\Emgu.Util.xml
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csprojAssemblyReference.cache
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\ReconocimientoF.Properties.Resources.resources
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csproj.GenerateResource.cache
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\ReconocimientoFacial.csproj.CopyComplete
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\Reconocimiento Facial.exe
+C:\Users\prode\OneDrive\Escritorio\ReconocimientoFacial\obj\x86\Debug\Reconocimiento Facial.pdb
